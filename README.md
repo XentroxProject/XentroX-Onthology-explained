@@ -1,4 +1,4 @@
-# Xentrox-Ecosystem-Onthology
+# XentroX-Ecosystem-Onthology
 About grouping of Xentrox development streams
 
 AE - Automation Ecosystem
