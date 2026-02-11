@@ -22,3 +22,5 @@ ME - Mobility Ecosystem
 SE - Drone Swarm Ecosystem
 
 TE - Telecommunications Ecosystem
+
+VE - Virtualisation Ecosystem
